@@ -1,0 +1,25 @@
+.card {
+    /* margin: 10px; */
+    border: none;
+    width: 500px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: lightblue;
+    background: linear-gradient(90deg, #108dc7 0%, #ef8e38 100%);
+}
+
+.card h1,
+h6 {
+    color: white;
+}
+
+.form-text {
+    color: white;
+}
+
+label {
+    color: white;
+}

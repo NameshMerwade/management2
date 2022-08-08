@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ca5a5420-ae4a-426a-b71c-e8038bd2224c/microsoft.web/sites/subscriptions/ca5a5420-ae4a-426a-b71c-e8038bd2224c/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/dashboardayekart1",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
